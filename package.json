@@ -6,3 +6,10 @@
     "servor": "^4.0.2"
   }
 }
+{
+  "name": "@saarors/my-package",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://github.com/saarors/my-website"
+  }
+}
