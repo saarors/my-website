@@ -5,7 +5,7 @@ name: MySite-saar
 
 on:
   release:
-    types: saar
+    types: [published]
 
 jobs:
   build:
